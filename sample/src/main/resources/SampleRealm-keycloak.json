@@ -1,0 +1,5 @@
+{
+    "realm": "SampleRealm",
+    "resource": "SampleRealmApi",
+    "auth-server-url": "http://localhost:8086/auth/"
+}
